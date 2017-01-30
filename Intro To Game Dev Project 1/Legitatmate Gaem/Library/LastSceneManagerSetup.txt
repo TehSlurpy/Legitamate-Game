@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Hobo/Documents/Unity Projects/Final/Final/Assets/PlayScreen.unity
+  isLoaded: 1
+  isActive: 1
